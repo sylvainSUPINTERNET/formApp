@@ -14,6 +14,7 @@
 		3A3F64342015EB7700023ECF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A3F64322015EB7700023ECF /* LaunchScreen.storyboard */; };
 		3A3F643F2015EB7700023ECF /* formAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3F643E2015EB7700023ECF /* formAppTests.swift */; };
 		3A3F644A2015EB7700023ECF /* formAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3F64492015EB7700023ECF /* formAppUITests.swift */; };
+		3A3F64582015FC3400023ECF /* share.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A3F64572015FC3400023ECF /* share.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3A3F64452015EB7700023ECF /* formAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = formAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A3F64492015EB7700023ECF /* formAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = formAppUITests.swift; sourceTree = "<group>"; };
 		3A3F644B2015EB7700023ECF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A3F64572015FC3400023ECF /* share.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = share.png; path = ../share.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		3A3F641D2015EB7600023ECF = {
 			isa = PBXGroup;
 			children = (
+				3A3F64572015FC3400023ECF /* share.png */,
 				3A3F64282015EB7700023ECF /* formApp */,
 				3A3F643D2015EB7700023ECF /* formAppTests */,
 				3A3F64482015EB7700023ECF /* formAppUITests */,
@@ -235,6 +238,7 @@
 				3A3F64342015EB7700023ECF /* LaunchScreen.storyboard in Resources */,
 				3A3F64312015EB7700023ECF /* Assets.xcassets in Resources */,
 				3A3F642F2015EB7700023ECF /* Main.storyboard in Resources */,
+				3A3F64582015FC3400023ECF /* share.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
